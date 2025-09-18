@@ -4,3 +4,13 @@ HR Analytics project analyzing employee attrition using Power BI. Includes KPIs,
 ## Project Overview
 
 This project analyzes employee attrition (resignations) using the IBM HR dataset. The goal is to identify patterns, trends, and key factors driving attrition and provide actionable insights to improve employee retention.
+
+# Key Business Questions
+
+What is the overall attrition rate?
+
+Which age group has the highest attrition?
+
+Does salary or tenure affect attrition?
+
+Which departments are most impacted?
