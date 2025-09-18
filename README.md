@@ -37,5 +37,17 @@ This project analyzes employee attrition (resignations) using the IBM HR dataset
 
 - Average salary across employees is 6.5K, but attrition is higher at lower salary bands.
 
+## How This Helps Business
+
+This analysis helps HR teams to:
+
+- Identify high-risk employee segments.
+
+- Improve retention strategies for mid-career professionals.
+
+- Focus on departments with high attrition (Sales, R&D).
+
+- Align job satisfaction programs with employee needs.
+
 
 
