@@ -13,4 +13,4 @@ Which age group has the highest attrition?
 
 Does salary or tenure affect attrition?
 
-Which departments are most impacted?
+Which departments are most impacted? 
