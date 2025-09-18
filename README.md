@@ -14,3 +14,11 @@ This project analyzes employee attrition (resignations) using the IBM HR dataset
 - Does salary or tenure affect attrition?
 
 - Which departments are most impacted? 
+
+## KPIs Tracked
+
+- Attrition Rate (%)
+
+- Average Monthly Salary
+
+- Attrition by Department, Age Group, Gender
