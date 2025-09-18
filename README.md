@@ -22,3 +22,4 @@ This project analyzes employee attrition (resignations) using the IBM HR dataset
 - Average Monthly Salary
 
 - Attrition by Department, Age Group, Gender
+
