@@ -23,3 +23,5 @@ This project analyzes employee attrition (resignations) using the IBM HR dataset
 
 - Attrition by Department, Age Group, Gender
 
+## Dashboard
+C:\Users\Unnati Tambe\Pictures\Screenshots
