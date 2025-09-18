@@ -27,5 +27,15 @@ This project analyzes employee attrition (resignations) using the IBM HR dataset
 
 <img width="760" height="398" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/353ef5b1-9493-49da-ad16-ea5bd0cfb5f7" />
 
+## Key Insights
+
+- Sales Department has the highest attrition (20%+), suggesting high pressure roles.
+
+- Employees aged 25–34 contribute to 61% of attrition, highlighting mid-career dissatisfaction.
+
+- Education field shows maximum attrition among Life Sciences & Medical graduates.
+
+- Average salary across employees is 6.5K, but attrition is higher at lower salary bands.
+
 
 
